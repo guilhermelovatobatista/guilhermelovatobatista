@@ -8,9 +8,10 @@ Aqui você encontra alguns projetos práticos que desenvolvi para aprender e dem
 ---
 
 ## 🚀 Sobre mim
-- 📍 Natural do Rio Grande do Sul - Brasil
-- 🎓 Estudando [coloque curso atual ou cursos online relevantes]
-- 💼 Interesses: Desenvolvimento de Software | Redes e Infraestrutura | Banco de Dados | Segurança
+- 📍 Jundiaí,São Paulo - Brasil
+- 🎓 Formado [Gestão da Tecnologia da informação ]
+- 🎓 Estudando [Design Gráfco]
+- 💼 Interesses:  |Egenharia de software | Ciência da computação  | 
 - 🔗 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/guilherme-lovato-batista)
 
 ---
@@ -40,4 +41,4 @@ Aqui você encontra alguns projetos práticos que desenvolvi para aprender e dem
 ## 📫 Contato
 - 💼 LinkedIn: [linkedin.com/in/guilherme-lovato-batista](https://www.linkedin.com/in/guilherme-lovato-batista)  
 - 📧 E-mail: [guilhermelovatobatista02024@gmail.com]  
-
+- 📞 Telefone: (11) 99647-4312
