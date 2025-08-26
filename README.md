@@ -10,7 +10,7 @@ Aqui você encontra alguns projetos práticos que desenvolvi para aprender e dem
 ## 🚀 Sobre mim
 - 📍 Jundiaí,São Paulo - Brasil
 - 🎓 Formado [Gestão da Tecnologia da informação ]
-- 🎓 Estudando [Design Gráfco]
+- 🎓 Estudando [Design Gráfco 2º Semestre]
 - 💼 Interesses:  |Egenharia de software | Ciência da computação  | 
 - 🔗 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/guilherme-lovato-batista)
 
