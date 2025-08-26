@@ -1,7 +1,7 @@
 # 👨‍💻 Portfólio de T.I — Guilherme Lovato Batista
 
 Bem-vindo ao meu portfólio!  
-Sou Formado/Gestão da Tecnologia da Informação, interessado em **[área de interesse: ex. desenvolvimento, redes, segurança da informação, dados]**.  
+Sou Formado/Gestão da Tecnologia da Informação, interessado em **[área de interesse: |Egenharia de software e Ciência da computação]**.  
 Aqui você encontra alguns projetos práticos que desenvolvi para aprender e demonstrar minhas habilidades.
 
 
